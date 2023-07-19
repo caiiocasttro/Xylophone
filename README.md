@@ -19,4 +19,5 @@ All the buttons have their own sender each is the same name of each file added t
 
 ### 📸 Screenshots of the application
 
-![Xylophone screenshot](https://github.com/caiiocasttro/Xylophone/assets/104564732/4d3d6329-b8f1-49d5-a30d-2db9b0760e59)
+![Xylophone screenshot](https://github.com/caiiocasttro/Xylophone/assets/104564732/255c1077-79db-40ab-827e-6a51ca44233b)
+
